@@ -10,7 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rTuAsYSyUpWATuRVoCS8EkrgHl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +26,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.oop.Main" />
+      <module name="java-object-oriented-approach-java-se-11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pluralsight.oop.Main" />
       <module name="java-oop-1z0-819 (1)" />
@@ -36,21 +53,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -65,6 +70,12 @@
       <updated>1619012261210</updated>
       <workItem from="1619012262507" duration="198000" />
       <workItem from="1619012532190" duration="189000" />
+      <workItem from="1619076385182" duration="762000" />
+      <workItem from="1619243647709" duration="72000" />
+      <workItem from="1619243851305" duration="567000" />
+      <workItem from="1619244466000" duration="294000" />
+      <workItem from="1619244861631" duration="485000" />
+      <workItem from="1619246079678" duration="298000" />
     </task>
     <servers />
   </component>

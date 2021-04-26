@@ -4,8 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcde7f60-5de8-4dc5-90a1-f6593c93d57a" name="Default Changelist" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bcde7f60-5de8-4dc5-90a1-f6593c93d57a" name="Default Changelist" comment=" commit">
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/src/main/java/pluralsight/oop/Calculators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/src/main/java/pluralsight/oop/ConversionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/src/main/java/pluralsight/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/target/classes/pluralsight/oop/Calculators$Distance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/target/classes/pluralsight/oop/Calculators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/target/classes/pluralsight/oop/ConversionHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/before/target/classes/pluralsight/oop/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/java-oop-1z0-819.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/src/main/java/pluralsight/oop/Calculators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/src/main/java/pluralsight/oop/ConversionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/src/main/java/pluralsight/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/target/classes/pluralsight/oop/Calculators$Distance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/target/classes/pluralsight/oop/Calculators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/target/classes/pluralsight/oop/ConversionHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/demos/3-static-members/complete/target/classes/pluralsight/oop/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/understanding-static-fields-methods-and-classes-slides.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +114,7 @@
       <workItem from="1619244861631" duration="485000" />
       <workItem from="1619246079678" duration="298000" />
       <workItem from="1619246782142" duration="1545000" />
+      <workItem from="1619418817409" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1619247090152</created>
@@ -90,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619247090152</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" commit">
+      <created>1619419062385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619419062385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,9 +146,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value=" commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" commit" />
   </component>
 </project>
